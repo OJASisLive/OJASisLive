@@ -1,7 +1,7 @@
 ![MasterHead](https://media1.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif?cid=790b7611a194e84de00668e6ca4f58547128d25b010398aa&rid=giphy.gif&ct=g)
 <h1 align="center">Hi 👋, I'm Om J Shah</h1>
 <h3 align="center">A passionate student from India</h3>
-<img align="right" alt="Coding" width="300" src="https://miro.medium.com/max/828/1*Urc28sbnORGOW5oyohQ06g.gif">
+<img align="right" alt="Coding" width="275" src="https://miro.medium.com/max/828/1*Urc28sbnORGOW5oyohQ06g.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ojasislive&label=Profile%20views&color=0e75b6&style=flat" alt="ojasislive" /> </p>
 
