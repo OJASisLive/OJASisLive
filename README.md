@@ -5,7 +5,7 @@
 
 <p align="center"><img src="https://miro.medium.com/max/828/1*Urc28sbnORGOW5oyohQ06g.gif" alt="coding2" width="300" /> </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ojasislive&label=Profile%20views&color=0e75b6&style=flat" alt="ojasislive" width="300" /> </p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=OJASisLive&theme=matrix" alt="ojasislive" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=OJASisLive&theme=onestar" alt="ojasislive" /></a> </p>
 
 - 🔭 I’m currently working on [Bank Management System](https://github.com/OJASisLive/Bank-Management-System-Python-SQL)
 
