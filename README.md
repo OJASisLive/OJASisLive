@@ -13,8 +13,6 @@
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me **ojsjvs123@gmail.com**
-
 - ⚡ Fun fact **I love to listen to music...**
 
 <h3 align="left">Connect with me:</h3>
