@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Bank Management System](https://github.com/OJASisLive/Bank-Management-System-Python-SQL)
 
-- 🌱 I’m currently learning **Python (12th standard)**
+- 🌱 I’m currently learning **Java**
 
 - 💬 Ask me about **Python**
 
