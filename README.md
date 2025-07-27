@@ -19,7 +19,7 @@
 <a href="https://stackoverflow.com/users/20426092" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20426092" height="30" width="40" /></a>
 <a href="https://instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omjshah2408" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCsA5uZVTmy7ZtvoD2qAFHBw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ojasislive" height="30" width="40" /></a>
-<a href="https://discord.gg/GDfZAVHFyq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="GDfZAVHFyq" height="30" width="40" /></a>
+<a href="[https://discord.gg/GDfZAVHFyq]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="GDfZAVHFyq" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
